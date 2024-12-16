@@ -98,7 +98,7 @@ months:
   - name: Tag der Arbeit
     regions: [de]
     mday: 1
-  - name: Jahrestag der Befreiung vom Nationalsozialismus und Ende des Zweiten Weltkriegs
+  - name: 80. Jahrestag (einmalig)
     regions: [de_be]
     mday: 8
     year_ranges:
@@ -374,4 +374,4 @@ tests:
       date: '2025-05-08'
       regions: ["de_be"]
     expect:
-      name: "Jahrestag der Befreiung vom Nationalsozialismus und Ende des Zweiten Weltkriegs"
+      name: "80. Jahrestag (einmalig)"
